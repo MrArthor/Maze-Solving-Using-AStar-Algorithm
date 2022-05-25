@@ -1,2 +1,2 @@
-# Maze Solving Using AStart Algorithm
- Maze Solving Using AStart Algorithm
+# Maze Solving Using AStar Algorithm
+ Maze Solving Using AStar Algorithm
