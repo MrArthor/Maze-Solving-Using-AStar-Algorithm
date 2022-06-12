@@ -2,7 +2,7 @@ from PIL import Image
 import sys, random, time  
 
 # -------------------------------------- Getting the desired dimensions ----------------------------------------------------------------------------
-DEFAULT_SIZE = 400
+DEFAULT_SIZE = 40
 if len(sys.argv) == 3:
     try:
         width = int(sys.argv[1])
